@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "nightfallout.aternos.me",
+    "port": 63860,
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 507,
+    "y": 223,
+    "z": 500
   },
   "utils": {
     "auto-auth": {
